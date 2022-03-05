@@ -5,6 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
+The aim of the project is to inform the user about how many calories they should consume on that specific day.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
