@@ -5,16 +5,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
+The aim of the project is to inform the user about how many calories they should consume on that specific day.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- TECH -->
-## Computing Platform
+## Framework Used
 
+Install and update using `pip`_:
 
+code-block:: text
+
+    $ pip install -U Flask
+
+pip: https://pip.pypa.io/en/stable/getting-started/
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
@@ -36,6 +44,6 @@ If you would like to add any extra features to the optimisation simulation, feel
 
 Erol Gelbul - [Website](http://www.erolgelbul.com) - erolgelbul@gmail.com
 
-Project Link: [Car Sales](https://github.com/ErolGelbul/calories-web)
+Project Link: [Calories Web](https://github.com/ErolGelbul/calories-web)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
