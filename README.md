@@ -5,7 +5,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-The aim of the project is to inform the user about how many calories they should consume on that specific day.
+The aim of the project is to inform the user about how many calories they should consume on that specific day. The main part of
+the project revolves around calculating the BMI value of the user by getting some user data. I used the Calorie class to do this
+calculation.
+
+`BMR = 10 * weight + 6.25 * height - 5 * age + 5 - 10 * temperature` formula is used.
+
+The second part of project is on webscraping. I did only used SelectorLib package to extract HTML data from the web page. This
+specific website that I worked with did not pose any problems while scraping data, however, some sites only allow browsers to 
+access the information. Therefore, I added headers while trying to reach the website. In the Temperature class I cleaned up the
+returned docstring. Later I only outputted the temperature value on float (used Celcius for calculations).
+
+Ultimately, gathered the local temperature data of the user and their information to calculate how many calories they require for
+the day.
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -14,11 +27,11 @@ The aim of the project is to inform the user about how many calories they should
 <div style="text-align:center"><img src="images/preview.gif" /></div>
 
 <!-- TECH -->
-## Framework Used
+## Technologies
 
-Install and update using `pip`:
+Web Frameworks: [Flask](https://flask.palletsprojects.com/en/2.0.x/) - install: `$ pip install -U Flask`
 
-    $ pip install -U Flask
+Libraries & Packages: [WTForms](https://wtforms.readthedocs.io/en/3.0.x/), [SelectorLib](https://selectorlib.com/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
