@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<div style="text-align:center"><img src="images/cover.png" /></div>
+<div style="text-align:center"><img src="images/cover2.jpg" /></div>
 
 <!-- ABOUT THE PROJECT -->
 ## About
@@ -10,6 +10,8 @@ The aim of the project is to inform the user about how many calories they should
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+<div style="text-align:center"><img src="images/preview.gif" /></div>
 
 <!-- TECH -->
 ## Framework Used
