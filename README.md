@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<div style="text-align:center"><img src="images/cover.jpg" /></div>
+<div style="text-align:center"><img src="images/cover.png" /></div>
 
 <!-- ABOUT THE PROJECT -->
 ## About
@@ -14,13 +14,10 @@ The aim of the project is to inform the user about how many calories they should
 <!-- TECH -->
 ## Framework Used
 
-Install and update using `pip`_:
-
-code-block:: text
+Install and update using `pip`:
 
     $ pip install -U Flask
 
-pip: https://pip.pypa.io/en/stable/getting-started/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
